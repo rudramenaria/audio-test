@@ -3,7 +3,8 @@
 Audio player with custom waveform.
 
 Using Flutter version 2.10.2
-To use to just pull the repository and run the code. Audio file is available in assets folder.
+For installation just pull the repository and run the code. 
+Audio file is available in assets folder.
 
 ## Getting Started
 
